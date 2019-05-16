@@ -3,4 +3,8 @@ The website for Sol Nascente, statically rendered with [Hugo](https://gohugo.io/
 
 ## Getting started
 * [Install Hugo](https://gohugo.io/getting-started/installing)
-* Render and watch for changes: `hugo watch -s` 
+* [Install GIT](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+* Clone the repo: `git clone https://github.com/dsrp/solnascente-website.git`
+* Open the project folder: `cd solnascente-website`
+* Render and watch for changes: `hugo server -w`
+* Open [http://localhost:1313/](http://localhost:1313/) in your browser.

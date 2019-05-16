@@ -30,3 +30,6 @@ taxonomies = false
   twitter = "https://twitter.com/solnascente_eu"
 
   custom_css = ["css/custom.css", "css/nav.css"]
+
+  nocode = true
+  nomath = true
